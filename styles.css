@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: gray;
+}
+h1 {
+    color: black;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+}
+
+li {
+    margin-bottom: 1em;
+    color: maroon;
+}
+
+a {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
